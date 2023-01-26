@@ -7,14 +7,14 @@ User can store their daily task in the App containing the activity and the time 
 User can also revise the action by deleteting or updating their activity
 
 ## Tools
-![pngwing com(2)](https://user-images.githubusercontent.com/91902011/214758490-a8a8214e-ed80-4ebf-bdbd-92c71119e673.png)
+<img width='150' src="https://user-images.githubusercontent.com/91902011/214758490-a8a8214e-ed80-4ebf-bdbd-92c71119e673.png">
 
 Python as the programming language
 
-<img src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" alt="Flask Logo - Flask Python Icon@pngkey.com">
+<img width='150' src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" alt="Flask Logo - Flask Python Icon@pngkey.com">
 
 Flask as the framework
 
-![pngegg](https://user-images.githubusercontent.com/91902011/214758728-0fd1a5af-4de1-4418-a484-6245306ffdab.png)
+<img width='150' src="https://user-images.githubusercontent.com/91902011/214758728-0fd1a5af-4de1-4418-a484-6245306ffdab.png">
 
 SQLite as the database
